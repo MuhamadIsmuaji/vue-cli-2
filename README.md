@@ -18,3 +18,8 @@ npm run build
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ### What I learn in this repository
+Introduction to Components
+Creating a components
+Storing data in Components using the Data Method
+Registering Components locally or globally
+Scoping components style
